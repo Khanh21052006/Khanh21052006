@@ -32,7 +32,7 @@ Aspiring Full Stack Developer at University of Information Technology - VNUHCM
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,docker,git,github,vscode" />
 
 </p>
 
