@@ -60,6 +60,6 @@ Aspiring Full Stack Developer at University of Information Technology - VNUHCM
 
 
 
-* LinkedIn: https://www.linkedin.com/in/2-b%C3%B9i-quang-kh%C3%A1nh-b08490356/
+* LinkedIn: https://www.linkedin.com/in/2-bùi-quang-khánh-b08490356/
 
 * Email: [quangkhanh21052006@gmail.com](mailto:quangkhanh21052006@gmail.com)
